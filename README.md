@@ -1,7 +1,9 @@
+<div style="background: linear-gradient(to bottom, #0F0C29, #302B63, #24243E); padding: 20px; border-radius: 15px; color: #E0E0E0; font-family: 'Arial', sans-serif;">
+
 # Hi there, I'm Abubakar Amin! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Innovative+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Innovative+Tech" alt="Typing SVG" />
 </div>
 
 ### About Me
@@ -24,7 +26,7 @@ Full-stack developer with 8 months of hands-on professional experience in Node.j
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) <!-- Note: Blade is part of Laravel, but keeping as per resume -->
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -33,7 +35,7 @@ Full-stack developer with 8 months of hands-on professional experience in Node.j
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Language Usage
-![Abubakar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarAmin&layout=compact&theme=dracula&hide_border=true)
+![Abubakar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarAmin&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=BB86FC)
 
 ### Focus Areas
 - 🎨 **Frontend Development**: React • Bootstrap • Responsive Design
@@ -45,6 +47,5 @@ Full-stack developer with 8 months of hands-on professional experience in Node.j
 - 🔗 **LinkedIn**: [developer-abubakar-amin](https://www.linkedin.com/in/developer-abubakar-amin/)
 - 📱 **Phone**: +92 344 7750321
 
-<div style="background: linear-gradient(to right, #007BFF, #00BFFF); padding: 10px; border-radius: 10px; text-align: center; color: #FFFFFF;">
-  Always building something innovative! 🚀
-</div>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/iIqmIqEUGTT5C/giphy.gif?cid=ecf05e47n5k0t3m4q3t4z0z0z0z0z0z0z0z0z0z0z0z0
