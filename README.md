@@ -70,7 +70,7 @@ Open to **freelance projects** and **remote opportunities**.
 </p>
 
 Live production platform for mobile recharges and utility top-ups — available on iOS, Android, and web. Built and deployed the entire backend solo in **3.5 months**, from first line of code to VPS deployment.
-
+Actively serving **10,000+ users** across iOS and Android.
 - Unified 5 payment gateways (JazzCash, EasyPaisa, MyPay, Bank Alfalah, Tap) using the Strategy pattern into a single transaction flow
 - Integrated Ding API and Swich API for real-time telecom catalog queries and recharges
 - Built automated fulfillment queues with fail-safe reconciliation — handles edge cases where payment succeeds but telecom delivery fails
