@@ -64,7 +64,7 @@ Open to **freelance projects** and **remote opportunities**.
   <a href="https://apps.apple.com/ng/app/easy-topup-mobile-recharge/id6633411365">
     <img src="https://img.shields.io/badge/App_Store-000000?style=flat-square&logo=apple&logoColor=white" />
   </a>
-  <a href="https://easytopup.pk">
+  <a href="https://easytopup.ae">
     <img src="https://img.shields.io/badge/Website-0052FF?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
