@@ -1,51 +1,99 @@
-<div style="background: linear-gradient(to bottom, #0F0C29, #302B63, #24243E); padding: 20px; border-radius: 15px; color: #E0E0E0; font-family: 'Arial', sans-serif;">
+# Abubakar Amin — Backend & AI Systems Developer
 
-# Hi there, I'm Abubakar Amin! 👋
+<p align="left">
+  <a href="mailto:abubakarmain100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/developer-abubakar-amin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abubakaramin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Innovative+Tech" alt="Typing SVG" />
-</div>
+Backend developer specializing in Laravel and Python — building production APIs, payment systems, and AI-powered automation. I focus on writing clean, maintainable code that solves real business problems and scales reliably.
 
-### About Me
-Full-stack developer with 8 months of hands-on professional experience in Node.js, React, Laravel, Flask, and AI/ML systems. Skilled in writing clean, modular code and collaborating in agile teams. Eager to contribute to mission-driven organizations solving meaningful, real-world problems through technology. 🌟
+Currently open to **freelance projects** and **remote opportunities**.
 
-### Skills & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+---
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Core Skills
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+---
 
-### Language Usage
-![Abubakar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakarAmin&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=BB86FC)
+## 🚀 Featured Projects
 
-### Focus Areas
-- 🎨 **Frontend Development**: React • Bootstrap • Responsive Design
-- ⚙️ **Backend Engineering**: Laravel • Flask • MySQL • APIs
-- 🤖 **AI & Machine Learning**: OpenCV • MediaPipe • LLMs
+### [EasyTopup — Mobile Recharge & Payment Platform](https://github.com/abubakaramin/easytopup-backend)
+> Live on [Google Play](https://play.google.com/store/apps/details?id=easytopup.easytopupapp.EasyTopup) · [App Store](https://apps.apple.com/ng/app/easy-topup-mobile-recharge/id6633411365) · [easytopup.pk](https://easytopup.pk)
 
-### Contact Me
-- 📧 **Email**: [abubakaramin100@gmail.com](mailto:abubakaramin100@gmail.com)
-- 🔗 **LinkedIn**: [developer-abubakar-amin](https://www.linkedin.com/in/developer-abubakar-amin/)
-- 📱 **Phone**: +92 344 7750321
+A production platform for mobile recharges and utility top-ups serving iOS, Android, and web users. I built and deployed the entire backend solo in **3.5 months** — from API design to VPS deployment.
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/iIqmIqEUGTT5C/giphy.gif?cid=ecf05e47n5k0t3m4q3t4z0z0z0z0z0z0z0z0z0z0z0z0
+- Unified 5 payment gateways (JazzCash, EasyPaisa, MyPay, Bank Alfalah, Tap) using the Strategy pattern
+- Integrated Ding API and Swich API for real-time telecom top-ups
+- Built automated order fulfillment with fail-safe reconciliation for failed transactions
+- Real-time chat support via Laravel Reverb + Pusher, push notifications via Firebase
+- OAuth2 authentication with custom device binding for fraud prevention
+- Full admin panel with CRUD management for users, transactions, and platform config
+
+`Laravel 10` `Laravel Passport` `MySQL` `Firebase` `Pusher` `REST API` `VPS Deployment`
+
+---
+
+### [ReserveroHub — Multi-Tenant Booking Platform](https://github.com/abubakaramin/reserverohub)
+
+A booking and business directory platform for service-based businesses. Owners manage their own workspace — services, staff, and operating hours — while admins control the full platform.
+
+- Role-based access control with separate routing and middleware for Admin, Owner, and User
+- Multi-tenant architecture with isolated business workspaces
+- Dynamic service and employee management with real-time availability toggling
+- Domain-driven codebase structure keeping Admin, Owner, and Front logic fully separated
+- Testing foundation set up with Pest PHP
+
+`Laravel 11` `PHP 8.2` `MySQL` `Alpine.js` `Tailwind CSS` `Pest`
+
+---
+
+### [ScholarGraph — Autonomous Multi-Agent Research Engine](https://github.com/abubakaramin/scholargraph)
+
+A hobby project — a fully autonomous AI system that goes from a research domain to a publication-ready LaTeX paper with no human in the loop. Eight specialized agents collaborate, debate, write, execute code, and validate quality before assembling the final document.
+
+- Adversarial debate system (Proposer + Challenger + Moderator) with hard quality gates
+- Engineer Agent generates and *executes* Python simulations — results feed directly into the paper
+- Multi-layer quality supervision: hallucination detection, math validation (SymPy), peer review scoring
+- FAISS vector memory for persistent knowledge across the full pipeline
+- Integrated with arXiv, OpenAlex, CrossRef for live academic data
+
+`Python` `LangGraph` `Google Gemini` `FAISS` `arXiv API` `PyLaTeX`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakaramin&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=444444" />
+</p>
+
+---
+
+## 📫 Let's Work Together
+
+If you need a backend developer for your next project — API development, payment integrations, admin systems, or AI automation — feel free to reach out.
+
+- **Email:** [abubakarmain100@gmail.com](mailto:abubakarmain100@gmail.com)
+- **LinkedIn:** [developer-abubakar-amin](https://www.linkedin.com/in/developer-abubakar-amin/)
+- **Phone:** +92 329 5596618
