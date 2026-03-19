@@ -1,4 +1,4 @@
-# Abubakar Amin
+# Abubakar Amin -- Backend & AI systems developer
 
 <p align="left">
   <a href="mailto:abubakarmain100@gmail.com">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Backend & AI systems developer. I build production APIs, payment infrastructure, multi-tenant platforms, and autonomous AI pipelines. I work primarily on the backend but am comfortable owning the full stack when a project needs it — React, Tailwind, Alpine, the works.
+I build production APIs, payment infrastructure, multi-tenant platforms, and autonomous AI pipelines. I work primarily on the backend but am comfortable owning the full stack when a project needs it — React, Tailwind, Alpine, the works.
 
 Open to **freelance projects** and **remote opportunities**.
 
