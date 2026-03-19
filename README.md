@@ -55,7 +55,7 @@ Open to **freelance projects** and **remote opportunities**.
 
 ## 🚀 Featured Projects
 
-### [EasyTopup — Mobile Recharge & Payment Platform](https://github.com/abubakaramin/easytopup-backend)
+### [EasyTopup — Mobile Recharge & Payment Platform (10,000+ users)](https://github.com/abubakaramin/easytopup-backend)
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=easytopup.easytopupapp.EasyTopup">
